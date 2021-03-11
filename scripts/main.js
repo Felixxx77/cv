@@ -1,11 +1,19 @@
 // Add your javascript here
 // Don't forget to add it into respective layouts where this js file is needed
 
+<<<<<<< HEAD
   AOS.init( {
     // uncomment below for on-scroll animations to played only once
     once: true
   }); // initialize animate on scroll library
 });
+=======
+//  AOS.init( {
+    // uncomment below for on-scroll animations to played only once
+//    once: true
+//  }); // initialize animate on scroll library
+//});
+>>>>>>> 4989d2d0db212ee62b16bca2ffda51723cc5e9a9
 
 // Smooth scroll for links with hashes
 $('a.smooth-scroll')
